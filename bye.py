@@ -1,1 +1,1 @@
-print("Bye! Aadi").py
+print("Bye! Aadi")
